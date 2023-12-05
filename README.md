@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryat10&label=Profile%20views&color=0e75b6&style=flat" alt="aryat10" /> </p>
 
-- 🔭 I’m currently working on **React Router**
+- 🔭 I’m currently working on **React Framework**
 
 - 🌱 I’m currently learning **ReactJS**
 
