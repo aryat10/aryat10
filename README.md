@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **srivastavatayra@gmail.com**
 
-- ⚡ Fun fact **I make jokes in serious situations**
+- ⚡ Fun fact **I make jokes out of code 👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
