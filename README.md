@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryat</h1>
-<h3 align="center">A passionate MERN stack Developer</h3>
+<h3 align="center">A passionate MERN Developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryat10&label=Profile%20views&color=0e75b6&style=flat" alt="aryat10" /> </p>
